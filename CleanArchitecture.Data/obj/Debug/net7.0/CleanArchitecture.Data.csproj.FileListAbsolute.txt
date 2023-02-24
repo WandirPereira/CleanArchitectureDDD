@@ -1,0 +1,17 @@
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/bin/Debug/net7.0/CleanArchitecture.Data.deps.json
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/bin/Debug/net7.0/CleanArchitecture.Data.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/bin/Debug/net7.0/CleanArchitecture.Data.pdb
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.csproj.AssemblyReference.cache
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.AssemblyInfoInputs.cache
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.AssemblyInfo.cs
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.csproj.CopyComplete
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/refint/CleanArchitecture.Data.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.pdb
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/ref/CleanArchitecture.Data.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/bin/Debug/net7.0/CleanArchitecture.Data.runtimeconfig.json
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/Debug/net7.0/CleanArchitecture.Data.genruntimeconfig.cache
