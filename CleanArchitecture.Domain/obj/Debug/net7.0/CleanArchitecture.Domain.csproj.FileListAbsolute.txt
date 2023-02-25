@@ -10,3 +10,15 @@
 /home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/refint/CleanArchitecture.Domain.dll
 /home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.pdb
 /home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/ref/CleanArchitecture.Domain.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.deps.json
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.AssemblyReference.cache
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/refint/CleanArchitecture.Domain.dll
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.pdb
+/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/ref/CleanArchitecture.Domain.dll

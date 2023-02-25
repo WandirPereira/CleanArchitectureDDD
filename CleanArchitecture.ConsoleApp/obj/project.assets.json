@@ -2914,11 +2914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
+      "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
       "projectName": "CleanArchitecture.ConsoleApp",
-      "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
+      "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
       "packagesPath": "/home/wandir/.nuget/packages/",
-      "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/obj/",
+      "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/wandir/.nuget/NuGet/NuGet.Config"
@@ -2933,11 +2933,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj": {
-              "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj"
+            "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj": {
+              "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj"
             },
-            "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
-              "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+            "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+              "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
             }
           }
         }

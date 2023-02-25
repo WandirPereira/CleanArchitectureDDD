@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj": {}
+    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj": {}
   },
   "projects": {
-    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj": {
+    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
+        "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
         "projectName": "CleanArchitecture.ConsoleApp",
-        "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
+        "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj",
         "packagesPath": "/home/wandir/.nuget/packages/",
-        "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.ConsoleApp/obj/",
+        "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wandir/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj": {
-                "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj"
+              "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj": {
+                "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj"
               },
-              "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
-                "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+              "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+                "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj": {
+    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
+        "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
         "projectName": "CleanArchitecture.Data",
-        "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
+        "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
         "packagesPath": "/home/wandir/.nuget/packages/",
-        "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/",
+        "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wandir/.nuget/NuGet/NuGet.Config"
@@ -94,8 +94,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
-                "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+              "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+                "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+    "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
         "packagesPath": "/home/wandir/.nuget/packages/",
-        "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/obj/",
+        "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wandir/.nuget/NuGet/NuGet.Config"

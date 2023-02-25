@@ -2932,11 +2932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
+      "projectUniqueName": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
       "projectName": "CleanArchitecture.Data",
-      "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
+      "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/CleanArchitecture.Data.csproj",
       "packagesPath": "/home/wandir/.nuget/packages/",
-      "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Data/obj/",
+      "outputPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/wandir/.nuget/NuGet/NuGet.Config"
@@ -2951,8 +2951,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
-              "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+            "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+              "projectPath": "/home/wandir/Documents/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
             }
           }
         }
